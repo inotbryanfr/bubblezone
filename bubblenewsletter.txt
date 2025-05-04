@@ -1,1 +1,1 @@
-VERSION RELEASE - Bubbleshot v1.0b
+Hello and welcome to the Bubbleshot DEMO!
